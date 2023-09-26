@@ -1,0 +1,19 @@
+/* Global styles */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+*{
+  font-family: 'Poppins',sans-serif;
+}
+.accordion-button::after{
+  opacity: 0.7;
+}
+.accordion{
+  width: 90%;
+  margin-bottom: 40px;
+}
+.accordion-item,.accordion-header,.accordion-button,.accordion{
+  background: rgba(255, 255, 255, 0.4);
+
+}
+.nav-link{
+ font-size: 0.9rem; 
+}
