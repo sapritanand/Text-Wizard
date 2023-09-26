@@ -2,7 +2,7 @@
 
 <p>Welcome to Text Wizard, a website designed to boost your productivity and simplify your text-related tasks. Text Wizard provides a range of powerful tools and functionalities to manipulate, analyze, and transform text efficiently, all within a user-friendly interface.</p>
 
-[Visit Now](https://zethyst.github.io/Text-Wizard/) 🚀
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -44,14 +44,6 @@ You may also see any lint errors in the console.
 ![home](/img/home.png)
 
 
-<h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jaiswal-4664a2197)
-
-© 2023 Akshat Jaiswal
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
